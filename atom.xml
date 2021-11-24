@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zhysheng.github.io</id>
-    <title>Gridea</title>
-    <updated>2021-11-24T14:23:48.710Z</updated>
+    <title>张氏族谱</title>
+    <updated>2021-11-24T15:15:11.666Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zhysheng.github.io"/>
     <link rel="self" href="https://zhysheng.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>悲歌可以当泣，远望可以当归</subtitle>
     <logo>https://zhysheng.github.io/images/avatar.png</logo>
     <icon>https://zhysheng.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, 张氏族谱</rights>
+    <entry>
+        <title type="html"><![CDATA[知往来 闯新天——记录张氏家族]]></title>
+        <id>https://zhysheng.github.io/post/zhi-wang-lai-chuang-xin-tian-ji-lu-zhang-shi-jia-zu/</id>
+        <link href="https://zhysheng.github.io/post/zhi-wang-lai-chuang-xin-tian-ji-lu-zhang-shi-jia-zu/">
+        </link>
+        <updated>2021-11-24T14:32:57.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://zhysheng.github.io/post-images/1637766819874.JPG" alt="" loading="lazy"><!-- more --></p>
+<figure data-type="image" tabindex="1"><img src="https://zhysheng.github.io/post-images/1637766857237.JPG" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://zhysheng.github.io/post/hello-gridea/</id>
